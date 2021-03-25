@@ -1,5 +1,5 @@
 body{
-    background-color: darksalmon;
+    background-color: lightsalmon;
     background-image: url(graphics/ground.jpg);
 }
 
@@ -26,3 +26,13 @@ a:link{
     a:visited{
         color:hotpink
     }   
+
+
+p{
+    font-family: 'Kiwi Maru', serif;
+    text-indent: 50px;
+}
+
+#paragraphOne{
+    background-color: maroon;
+}
