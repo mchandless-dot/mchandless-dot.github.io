@@ -1,0 +1,28 @@
+body{
+    background-color: darksalmon;
+    background-image: url(graphics/ground.jpg);
+}
+
+h1{
+    color: darkslategray;
+    font-size: 24;   
+}
+
+h5{
+    color: firebrick;
+    font-size: 12;
+}
+hr{
+    color: fuchsia;
+    height: 10px;
+    width: 95%;
+}
+
+
+a:link{
+    color:gold;
+}
+
+    a:visited{
+        color:hotpink
+    }   
