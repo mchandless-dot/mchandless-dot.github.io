@@ -1,21 +1,11 @@
 body{
-    background-color: lightsalmon;
-    background-image: url(graphics/ground.jpg);
+    background-color:lavender;
 }
 
 h1{
     color: darkslategray;
-    font-size: 24;   
-}
-
-h5{
-    color: firebrick;
-    font-size: 12;
-}
-hr{
-    color: fuchsia;
-    height: 10px;
-    width: 95%;
+    font-size: 40;
+    font-family: 'Roboto Slab', serif;
 }
 
 
@@ -24,14 +14,9 @@ a:link{
 }
 
     a:visited{
-        color:hotpink
+        color:lawngreen
     }   
 
-
-p{
-    font-family: 'Kiwi Maru', serif;
-    text-indent: 50px;
-}
 
 header{
     text-size-adjust: 50px;
