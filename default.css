@@ -8,6 +8,11 @@ h1{
     font-family: 'Roboto Slab', serif;
 }
 
+h2{
+    color: lightslategrey;
+    font-size: 30;
+    font-family: 'Roboto Slab', serif;
+}
 
 a:link{
     color:gold;
@@ -16,8 +21,3 @@ a:link{
     a:visited{
         color:lawngreen
     }   
-
-
-header{
-    text-size-adjust: 50px;
-}
