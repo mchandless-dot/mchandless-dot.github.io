@@ -32,3 +32,7 @@ p{
     font-family: 'Kiwi Maru', serif;
     text-indent: 50px;
 }
+
+header{
+    text-size-adjust: 50px;
+}
