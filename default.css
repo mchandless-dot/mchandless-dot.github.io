@@ -1,5 +1,6 @@
 body{
-    background-image: url(graphics/ground.jpeg);
+    background-color: lightsalmon;
+    background-image: url(graphics/ground.jpg);
 }
 
 h1{
@@ -30,9 +31,4 @@ a:link{
 p{
     font-family: 'Kiwi Maru', serif;
     text-indent: 50px;
-}
-
-#paragraphOne{
-    background-color: maroon;
-    position: absolute; top: 100px; left: 300px; 
 }
