@@ -40,13 +40,16 @@ h1{
     border-radius: 10px;
 }
 .cactus{
-    position: absolute; left: 635px;
+    position: absolute; left: 535px;
 }
 .baseball{
     position: absolute; top: 500px; left: 435px;
 }
 .dude{
     position: absolute; top: 500px; left: 1000px;
+    border: groove burlywood;
+    border-width: 10px;
+
 }
 .gloves{
     position: absolute; top: 575px; left: 100px;
