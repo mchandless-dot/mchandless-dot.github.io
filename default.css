@@ -8,10 +8,14 @@ h1{
     font-family: 'Roboto Slab', serif;
 }
 
-h2{
-    color: lightslategrey;
-    font-size: 30;
-    font-family: 'Roboto Slab', serif;
+h3{
+    font-size: 10;
+    color:navy;
+}
+
+p2{
+    position: relative; left: 50px; 
+    padding: 5px;
 }
 
 a:link{
