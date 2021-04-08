@@ -1,0 +1,67 @@
+body{
+    background-image: url(https://www.tilingtextures.com/wp-content/uploads/2020/03/709a98b6-0141-512x512.jpg);
+}
+
+h1{
+    color: green;
+    background-color: ivory;
+    padding: 5px;
+}
+
+.Casa{
+    position: absolute; top:90px; left:20px;
+    border: groove;
+    border-color: rgb(65, 45, 45);
+    border-width: 10px;
+}
+.beatles{
+    position: absolute;top: 106px; left: 1050px;
+    border: groove rgb(117, 102, 88);
+    border-width: 2px;
+}
+.bat{
+    position: absolute;top: 615px; left: 0px;
+}
+.comic{
+    position: absolute;top: 455px; left: 1250px;
+    border: groove burlywood;
+    border-width: 7px;
+}
+.NY{
+    position: absolute;top: 93px; left: 401px;
+    border-radius: 10px;
+}
+.arizona{
+    position: absolute;top: 218px; left: 401px;
+    border-radius: 10px;
+}
+.florida{
+    position: absolute; top: 335px; left: 401px;
+    border-radius: 10px;
+}
+.cactus{
+    position: absolute; left: 635px;
+}
+.baseball{
+    position: absolute; top: 500px; left: 435px;
+}
+.dude{
+    position: absolute; top: 500px; left: 1000px;
+}
+.gloves{
+    position: absolute; top: 575px; left: 100px;
+}
+.elvis{
+    position: absolute; top: 100px; left: 1300px; 
+    border: groove rgb(117, 102, 88);
+    border-width: 3px;
+}
+.record{
+    position: absolute; top: 375px; left: 1000px; 
+}
+.record2{
+    position: absolute; top: 330px; left: 1150px; 
+}
+.ball{
+    position: absolute; top: 630px; left: 750px; 
+}
